@@ -49,6 +49,3 @@ radio.onReceivedString(function (receivedString) {
     radio.setGroup(3)
 })
 radio.setGroup(3)
-basic.forever(function () {
-	
-})
